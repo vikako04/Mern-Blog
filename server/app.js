@@ -18,6 +18,7 @@ app.use(express.json()) // Парсинг JSON-тела запроса
 app.use(logger) // Логирование запросов
 
 
+app.use(express.urlencoded({ extended: true })); // Парсинг form-data
 
 
 // Подключение маршрутов
@@ -25,7 +26,6 @@ app.use('/upload', uploadRoutes)
 app.use('/posts', postsRouter)
 
 
-console.log('Статические файлы раздаются из:', path.join(__dirname, 'uploads'));
 
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
