@@ -1,52 +1,12 @@
 [
   {
-    "id": 7,
-    "title": "nnnn",
-    "content": "jjjjjjj",
-    "img": "uploads/1741968492710-book4.JPG",
+    "id": 13,
+    "title": "Новые штрафы в Казахстане",
+    "content": "В Казахстане планируют внести изменения и добавить новые штрафы за нарушения. Изменения вступят в силу с 13 марта 2025 года.",
+    "img": "uploads/1741970952056-2.jpg",
     "authorId": null,
-    "publishDate": "2025-03-14T16:08:12.715Z",
-    "views": 45,
-    "likes": 883
-  },
-  {
-    "id": 9,
-    "title": "gkgjgjgjg",
-    "content": "kfgkgkgkgk",
-    "img": "uploads/1741968576401-61.jpg",
-    "authorId": null,
-    "publishDate": "2025-03-14T16:09:36.404Z",
-    "views": 392,
-    "likes": 909
-  },
-  {
-    "id": 10,
-    "title": "bthgvfd",
-    "content": "fvgbtgvfd",
-    "img": "uploads/1741968593935-64.jpg",
-    "authorId": null,
-    "publishDate": "2025-03-14T16:09:53.936Z",
-    "views": 627,
-    "likes": 589
-  },
-  {
-    "id": 11,
-    "title": "tbvt",
-    "content": "tb5t",
-    "img": "uploads/1741968606252-63.jpg",
-    "authorId": null,
-    "publishDate": "2025-03-14T16:10:06.253Z",
-    "views": 5,
-    "likes": 172
-  },
-  {
-    "id": 12,
-    "title": "btt",
-    "content": "5tb5",
-    "img": "uploads/1741968615135-63.jpg",
-    "authorId": null,
-    "publishDate": "2025-03-14T16:10:15.136Z",
-    "views": 653,
-    "likes": 261
+    "publishDate": "2025-03-14T16:49:12.058Z",
+    "views": 14,
+    "likes": 666
   }
 ]
